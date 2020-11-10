@@ -1,0 +1,11 @@
+﻿2020-11-03 13:40:52, Info                  [0x000000] LOADSTATE.EXE[gle=0x000000b7]
+2020-11-03 13:40:52, Info                  [0x000000] USMT Started at 2020/11/03:13:40:52.117
+2020-11-03 13:40:52, Info                  [0x000000] Command line: D:\TeacherMigrationTool\User State Migration Tool\amd64\loadstate.exe
+2020-11-03 13:40:52, Info                  [0x000000] Failed.
+2020-11-03 13:40:52, Info                  [0x000000]   Administrator privileges are required to run this tool.
+2020-11-03 13:40:52, Info                  [0x000000] USMT Completed at 2020/11/03:13:40:52.117
+2020-11-03 13:40:52, Info                  [0x000000] ----------------------------------- USMT ERROR SUMMARY -----------------------------------
+2020-11-03 13:40:52, Info                  [0x000000] * USMT error code 34: 
+2020-11-03 13:40:52, Info                  [0x000000] +-----------------------------------------------------------------------------------------
+2020-11-03 13:40:52, Info                  [0x000000] | Administrator privileges are required to run this tool.
+2020-11-03 13:40:52, Info                  [0x000000] +-----------------------------------------------------------------------------------------
